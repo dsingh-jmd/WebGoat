@@ -259,7 +259,8 @@
                             <execution>
                                 <goals>
                                     <goal>check</goal>
-                                </goals>
+					<|--<goal>check</goal>==>
+		                </goals>
                             </execution>
                         </executions>
                     </plugin>
